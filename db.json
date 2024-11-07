@@ -1,0 +1,110 @@
+{
+  "uploadVideos": [
+    {
+      "id": "ae4f",
+      "caption": "Beatifulll People",
+      "imgUrl": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/EDK9KOfknTw"
+    },
+    {
+      "id": "a7dd",
+      "caption": "Guitar",
+      "imgUrl": "https://th.bing.com/th/id/OIP.uHaqRdiMzWSMCR2LzsmhtQHaEZ?w=293&h=180&c=7&r=0&o=5&dpr=2&pid=1.7",
+      "youtubeLink": "https://www.youtube.com/embed/EDK9KOfknTw"
+    }
+  ],
+  "categories": [
+    {
+      "id": "8ad1",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "9de8",
+          "caption": "new",
+          "imgUrl": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/74yb9E3WY1I"
+        },
+        {
+          "id": "9268",
+          "caption": "aaa",
+          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9SRRmhH4X5N2e4QalcoxVbzYsD44C-sQv-w&s",
+          "youtubeLink": "https://www.youtube.com/embed/EDK9KOfknTw"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "fd38",
+      "caption": "Better Days",
+      "youtubeLink": "https://www.youtube.com/embed/mXYifqtNj38",
+      "timeStamp": "11/4/2024, 2:47:04 AM GMT+5:30"
+    },
+    {
+      "id": "14dc",
+      "caption": "Guitar",
+      "youtubeLink": "https://www.youtube.com/embed/EDK9KOfknTw",
+      "timeStamp": "11/4/2024, 2:48:27 AM GMT+5:30"
+    },
+    {
+      "id": "0d8f",
+      "caption": "Demo",
+      "youtubeLink": "https://www.youtube.com/embed/fCUvgwfwHOM",
+      "timeStamp": "11/4/2024, 2:56:18 AM GMT+5:30"
+    },
+    {
+      "id": "1594",
+      "caption": "Demo",
+      "youtubeLink": "https://www.youtube.com/embed/fCUvgwfwHOM",
+      "timeStamp": "11/4/2024, 1:06:52 PM GMT+5:30"
+    },
+    {
+      "id": "8d6a",
+      "caption": "Guitar",
+      "youtubeLink": "https://www.youtube.com/embed/EDK9KOfknTw",
+      "timeStamp": "11/4/2024, 1:06:59 PM GMT+5:30"
+    },
+    {
+      "id": "2e37",
+      "caption": "Better Days",
+      "youtubeLink": "https://www.youtube.com/embed/mXYifqtNj38",
+      "timeStamp": "11/4/2024, 1:07:10 PM GMT+5:30"
+    },
+    {
+      "id": "f03d",
+      "caption": "Beatifulll People",
+      "youtubeLink": "https://www.youtube.com/embed/EDK9KOfknTw",
+      "timeStamp": "11/5/2024, 10:09:42 AM GMT+5:30"
+    },
+    {
+      "id": "98ec",
+      "caption": "Guitar",
+      "youtubeLink": "https://www.youtube.com/embed/EDK9KOfknTw",
+      "timeStamp": "11/5/2024, 10:24:32 AM GMT+5:30"
+    },
+    {
+      "id": "e58d",
+      "caption": "Guitar",
+      "youtubeLink": "https://www.youtube.com/embed/EDK9KOfknTw",
+      "timeStamp": "11/5/2024, 10:49:49 AM GMT+5:30"
+    },
+    {
+      "id": "4ec3",
+      "caption": "Guitar",
+      "youtubeLink": "https://www.youtube.com/embed/EDK9KOfknTw",
+      "timeStamp": "11/6/2024, 10:05:14 AM GMT+5:30"
+    },
+    {
+      "id": "d788",
+      "caption": "Better Days",
+      "youtubeLink": "https://www.youtube.com/embed/mXYifqtNj38",
+      "timeStamp": "11/6/2024, 10:23:32 AM GMT+5:30"
+    },
+    {
+      "id": "7e76",
+      "caption": "Guitar",
+      "youtubeLink": "https://www.youtube.com/embed/EDK9KOfknTw",
+      "timeStamp": "11/6/2024, 10:27:29 AM GMT+5:30"
+    }
+  ]
+}
